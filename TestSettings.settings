@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UI_InvestmentMangement" GeneratedClassName="TestSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReportFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\TestOutput</Value>
+    </Setting>
+    <Setting Name="WebURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://streamdatum-dev2-im.azurewebsites.net</Value>
+    </Setting>
+    <Setting Name="LoginUserId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">im.user@streamrealty.com</Value>
+    </Setting>
+    <Setting Name="LoginPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Stream2002#</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

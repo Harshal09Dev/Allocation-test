@@ -1,0 +1,3 @@
+I:\hk im copy\hk im copy\Investmentmanagement\Test\obj\Debug\InvestmentMangement.csprojAssemblyReference.cache
+I:\hk im copy\hk im copy\Investmentmanagement\Test\obj\Debug\InvestmentMangement.csproj.ResolveComReference.cache
+I:\hk im copy\hk im copy\Investmentmanagement\Test\obj\Debug\InvestmentMangement.csproj.CoreCompileInputs.cache
